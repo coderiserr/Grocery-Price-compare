@@ -1,0 +1,38 @@
+{
+  "name": "grocery-price-compare",
+  "version": "1.0.0",
+  "description": "Grocery price comparion to reduce cost of user",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "deenu,ashmit,deenu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "@types/react-slick": "^0.23.13",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-regular-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "dom": "^0.0.3",
+    "grocery-price-compare": "file:",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0",
+    "react-slick": "^0.30.2",
+    "router": "^2.0.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.1.14"
+  }
+}
